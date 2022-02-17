@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\T01. Birthday Celebration\bin\Debug\netcoreapp3.1\T01. Birthday Celebration.exe
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\T01. Birthday Celebration\bin\Debug\netcoreapp3.1\T01. Birthday Celebration.deps.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\T01. Birthday Celebration\bin\Debug\netcoreapp3.1\T01. Birthday Celebration.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\T01. Birthday Celebration\bin\Debug\netcoreapp3.1\T01. Birthday Celebration.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\T01. Birthday Celebration\bin\Debug\netcoreapp3.1\T01. Birthday Celebration.dll
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\T01. Birthday Celebration\bin\Debug\netcoreapp3.1\T01. Birthday Celebration.pdb
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\T01. Birthday Celebration\obj\Debug\netcoreapp3.1\T01. Birthday Celebration.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\T01. Birthday Celebration\obj\Debug\netcoreapp3.1\T01. Birthday Celebration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\T01. Birthday Celebration\obj\Debug\netcoreapp3.1\T01. Birthday Celebration.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\T01. Birthday Celebration\obj\Debug\netcoreapp3.1\T01. Birthday Celebration.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\T01. Birthday Celebration\obj\Debug\netcoreapp3.1\T01. Birthday Celebration.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\T01. Birthday Celebration\obj\Debug\netcoreapp3.1\T01. Birthday Celebration.dll
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\T01. Birthday Celebration\obj\Debug\netcoreapp3.1\T01. Birthday Celebration.pdb
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\T01. Birthday Celebration\obj\Debug\netcoreapp3.1\T01. Birthday Celebration.genruntimeconfig.cache
