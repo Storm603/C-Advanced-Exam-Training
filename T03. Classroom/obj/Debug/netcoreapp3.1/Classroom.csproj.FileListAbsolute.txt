@@ -1,0 +1,13 @@
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\T03. Classroom\bin\Debug\netcoreapp3.1\Classroom.exe
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\T03. Classroom\bin\Debug\netcoreapp3.1\Classroom.deps.json
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\T03. Classroom\bin\Debug\netcoreapp3.1\Classroom.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\T03. Classroom\bin\Debug\netcoreapp3.1\Classroom.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\T03. Classroom\bin\Debug\netcoreapp3.1\Classroom.dll
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\T03. Classroom\bin\Debug\netcoreapp3.1\Classroom.pdb
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\T03. Classroom\obj\Debug\netcoreapp3.1\Classroom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\T03. Classroom\obj\Debug\netcoreapp3.1\Classroom.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\T03. Classroom\obj\Debug\netcoreapp3.1\Classroom.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\T03. Classroom\obj\Debug\netcoreapp3.1\Classroom.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\T03. Classroom\obj\Debug\netcoreapp3.1\Classroom.dll
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\T03. Classroom\obj\Debug\netcoreapp3.1\Classroom.pdb
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\T03. Classroom\obj\Debug\netcoreapp3.1\Classroom.genruntimeconfig.cache
