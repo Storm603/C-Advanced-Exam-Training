@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 3\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.exe
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 3\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.deps.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 3\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 3\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 3\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.dll
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 3\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.pdb
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 3\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 3\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 3\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 3\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 3\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 3\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.dll
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 3\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.pdb
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 3\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.genruntimeconfig.cache
