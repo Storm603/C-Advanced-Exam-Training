@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\02. Super Maria\bin\Debug\netcoreapp3.1\02. Super Maria.exe
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\02. Super Maria\bin\Debug\netcoreapp3.1\02. Super Maria.deps.json
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\02. Super Maria\bin\Debug\netcoreapp3.1\02. Super Maria.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\02. Super Maria\bin\Debug\netcoreapp3.1\02. Super Maria.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\02. Super Maria\bin\Debug\netcoreapp3.1\02. Super Maria.dll
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\02. Super Maria\bin\Debug\netcoreapp3.1\02. Super Maria.pdb
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\02. Super Maria\obj\Debug\netcoreapp3.1\02. Super Maria.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\02. Super Maria\obj\Debug\netcoreapp3.1\02. Super Maria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\02. Super Maria\obj\Debug\netcoreapp3.1\02. Super Maria.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\02. Super Maria\obj\Debug\netcoreapp3.1\02. Super Maria.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\02. Super Maria\obj\Debug\netcoreapp3.1\02. Super Maria.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\02. Super Maria\obj\Debug\netcoreapp3.1\02. Super Maria.dll
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\02. Super Maria\obj\Debug\netcoreapp3.1\02. Super Maria.pdb
+C:\Users\Kristiyan\source\repos\CS Advanced Training 1\02. Super Maria\obj\Debug\netcoreapp3.1\02. Super Maria.genruntimeconfig.cache
