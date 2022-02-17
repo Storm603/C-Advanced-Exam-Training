@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.exe
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.deps.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.dll
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.pdb
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.dll
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.pdb
+C:\Users\Kristiyan\source\repos\CS Advanced Exercise Train 4\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.genruntimeconfig.cache
