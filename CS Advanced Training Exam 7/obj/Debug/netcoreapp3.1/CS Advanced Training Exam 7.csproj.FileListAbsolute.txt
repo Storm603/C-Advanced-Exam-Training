@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\T01. Loot box\CS Advanced Training Exam 7\obj\Debug\netcoreapp3.1\CS Advanced Training Exam 7.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\T01. Loot box\CS Advanced Training Exam 7\obj\Debug\netcoreapp3.1\CS Advanced Training Exam 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\T01. Loot box\CS Advanced Training Exam 7\obj\Debug\netcoreapp3.1\CS Advanced Training Exam 7.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\T01. Loot box\CS Advanced Training Exam 7\obj\Debug\netcoreapp3.1\CS Advanced Training Exam 7.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\T01. Loot box\CS Advanced Training Exam 7\obj\Debug\netcoreapp3.1\CS Advanced Training Exam 7.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\T01. Loot box\CS Advanced Training Exam 7\bin\Debug\netcoreapp3.1\CS Advanced Training Exam 7.exe
+C:\Users\Kristiyan\source\repos\T01. Loot box\CS Advanced Training Exam 7\bin\Debug\netcoreapp3.1\CS Advanced Training Exam 7.deps.json
+C:\Users\Kristiyan\source\repos\T01. Loot box\CS Advanced Training Exam 7\bin\Debug\netcoreapp3.1\CS Advanced Training Exam 7.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\T01. Loot box\CS Advanced Training Exam 7\bin\Debug\netcoreapp3.1\CS Advanced Training Exam 7.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\T01. Loot box\CS Advanced Training Exam 7\bin\Debug\netcoreapp3.1\CS Advanced Training Exam 7.dll
+C:\Users\Kristiyan\source\repos\T01. Loot box\CS Advanced Training Exam 7\bin\Debug\netcoreapp3.1\CS Advanced Training Exam 7.pdb
+C:\Users\Kristiyan\source\repos\T01. Loot box\CS Advanced Training Exam 7\obj\Debug\netcoreapp3.1\CS Advanced Training Exam 7.dll
+C:\Users\Kristiyan\source\repos\T01. Loot box\CS Advanced Training Exam 7\obj\Debug\netcoreapp3.1\CS Advanced Training Exam 7.pdb
+C:\Users\Kristiyan\source\repos\T01. Loot box\CS Advanced Training Exam 7\obj\Debug\netcoreapp3.1\CS Advanced Training Exam 7.genruntimeconfig.cache
