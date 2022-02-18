@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 6\T02. Warships\bin\Debug\netcoreapp3.1\T02. Warships.exe
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 6\T02. Warships\bin\Debug\netcoreapp3.1\T02. Warships.deps.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 6\T02. Warships\bin\Debug\netcoreapp3.1\T02. Warships.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 6\T02. Warships\bin\Debug\netcoreapp3.1\T02. Warships.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 6\T02. Warships\bin\Debug\netcoreapp3.1\T02. Warships.dll
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 6\T02. Warships\bin\Debug\netcoreapp3.1\T02. Warships.pdb
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 6\T02. Warships\obj\Debug\netcoreapp3.1\T02. Warships.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 6\T02. Warships\obj\Debug\netcoreapp3.1\T02. Warships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 6\T02. Warships\obj\Debug\netcoreapp3.1\T02. Warships.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 6\T02. Warships\obj\Debug\netcoreapp3.1\T02. Warships.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 6\T02. Warships\obj\Debug\netcoreapp3.1\T02. Warships.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 6\T02. Warships\obj\Debug\netcoreapp3.1\T02. Warships.dll
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 6\T02. Warships\obj\Debug\netcoreapp3.1\T02. Warships.pdb
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 6\T02. Warships\obj\Debug\netcoreapp3.1\T02. Warships.genruntimeconfig.cache
