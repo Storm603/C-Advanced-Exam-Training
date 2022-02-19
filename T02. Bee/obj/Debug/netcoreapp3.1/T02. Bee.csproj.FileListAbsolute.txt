@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Trainign 9\T02. Bee\bin\Debug\netcoreapp3.1\T02. Bee.exe
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Trainign 9\T02. Bee\bin\Debug\netcoreapp3.1\T02. Bee.deps.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Trainign 9\T02. Bee\bin\Debug\netcoreapp3.1\T02. Bee.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Trainign 9\T02. Bee\bin\Debug\netcoreapp3.1\T02. Bee.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Trainign 9\T02. Bee\bin\Debug\netcoreapp3.1\T02. Bee.dll
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Trainign 9\T02. Bee\bin\Debug\netcoreapp3.1\T02. Bee.pdb
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Trainign 9\T02. Bee\obj\Debug\netcoreapp3.1\T02. Bee.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Trainign 9\T02. Bee\obj\Debug\netcoreapp3.1\T02. Bee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Trainign 9\T02. Bee\obj\Debug\netcoreapp3.1\T02. Bee.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Trainign 9\T02. Bee\obj\Debug\netcoreapp3.1\T02. Bee.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Trainign 9\T02. Bee\obj\Debug\netcoreapp3.1\T02. Bee.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Trainign 9\T02. Bee\obj\Debug\netcoreapp3.1\T02. Bee.dll
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Trainign 9\T02. Bee\obj\Debug\netcoreapp3.1\T02. Bee.pdb
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Trainign 9\T02. Bee\obj\Debug\netcoreapp3.1\T02. Bee.genruntimeconfig.cache
