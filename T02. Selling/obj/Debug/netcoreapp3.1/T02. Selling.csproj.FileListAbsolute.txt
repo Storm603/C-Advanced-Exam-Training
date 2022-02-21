@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 10\T02. Selling\bin\Debug\netcoreapp3.1\T02. Selling.exe
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 10\T02. Selling\bin\Debug\netcoreapp3.1\T02. Selling.deps.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 10\T02. Selling\bin\Debug\netcoreapp3.1\T02. Selling.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 10\T02. Selling\bin\Debug\netcoreapp3.1\T02. Selling.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 10\T02. Selling\bin\Debug\netcoreapp3.1\T02. Selling.dll
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 10\T02. Selling\bin\Debug\netcoreapp3.1\T02. Selling.pdb
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 10\T02. Selling\obj\Debug\netcoreapp3.1\T02. Selling.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 10\T02. Selling\obj\Debug\netcoreapp3.1\T02. Selling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 10\T02. Selling\obj\Debug\netcoreapp3.1\T02. Selling.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 10\T02. Selling\obj\Debug\netcoreapp3.1\T02. Selling.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 10\T02. Selling\obj\Debug\netcoreapp3.1\T02. Selling.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 10\T02. Selling\obj\Debug\netcoreapp3.1\T02. Selling.dll
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 10\T02. Selling\obj\Debug\netcoreapp3.1\T02. Selling.pdb
+C:\Users\Kristiyan\source\repos\CS Advanced Exam Training 10\T02. Selling\obj\Debug\netcoreapp3.1\T02. Selling.genruntimeconfig.cache
